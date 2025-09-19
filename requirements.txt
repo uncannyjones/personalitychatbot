@@ -1,0 +1,21 @@
+# Core
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+torch
+transformers
+
+# Jupyter
+notebook
+jupyter
+
+# Utils
+tqdm
